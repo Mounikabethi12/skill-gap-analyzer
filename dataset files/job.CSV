@@ -1,0 +1,252 @@
+job_id,job_title,seniority,status,company,location,salary,skills
+101,"data scientist",seniority_level,hybrid,company_003,"Grapevine, TX . Hybrid","â‚¬100,472 - â‚¬200,938","spark, r, python, scala, machine learning, tensorflow"
+102,"data scientist",senior,hybrid,company_005,"Fort Worth, TX . Hybrid","â‚¬118,733","spark, r, python, sql, machine learning"
+103,"data scientist",lead,on-site,company_007,"Austin, TX . Toronto, Ontario, Canada . Kirkland, WA . Orlando, FL . Edmonton, Alberta, Canada + 1 More","â‚¬94,987 - â‚¬159,559","aws, git, python, docker, sql, machine learning, gcp, kubernetes, deep learning"
+104,"data scientist",senior,hybrid,company_008,"Chicago, IL . Scottsdale, AZ . Austin, TX . Hybrid","â‚¬112,797 - â‚¬194,402","sql, r, python"
+105,"data scientist",senior,on-site,company_009,On-site,"â‚¬114,172 - â‚¬228,337",
+106,"data scientist",senior,,company_013,"New York, NY","â‚¬196,371 - â‚¬251,170","scikit-learn, python, scala, sql, machine learning, tensorflow"
+107,"data scientist",lead,,company_014,"Berkeley, CA","â‚¬51,330 - â‚¬70,144",
+108,"machine learning engineer",junior,on-site,company_015,"Menlo Park, CA","â‚¬121,480 - â‚¬132,440","machine learning"
+109,"data scientist",senior,remote,company_019,"Fully Remote","â‚¬207,331",
+110,"data scientist",senior,on-site,company_021,On-site,"â‚¬219,201",
+111,"data scientist",senior,,company_022,"Atlanta, GA","â‚¬96,815","pytorch, r, python, sql, machine learning, keras, deep learning, tensorflow"
+112,"data scientist",senior,,company_027,"Greater Vancouver Metropolitan Area","â‚¬62,697 - â‚¬89,293","java, git, python"
+113,"data scientist",midlevel,remote,company_029,"Minneapolis, MN . Fully Remote","â‚¬99,464 - â‚¬165,954","sql, machine learning, python"
+114,"data scientist",senior,on-site,company_031,"Titusville, NJ . Titusville, New Jersey, United States","â‚¬112,343 - â‚¬117,823","sql, machine learning, r, python"
+115,"data scientist",senior,on-site,company_034,"Arlington, VA","â‚¬127,867 - â‚¬150,700","pandas, powerbi, python, java, sql, machine learning, tableau"
+116,"data scientist",senior,remote,company_037,"Fully Remote","â‚¬134,266",
+117,"data scientist",senior,,company_038,"Bengaluru, Karnataka, India","â‚¬52,746","spark, aws, r, python, machine learning, gcp, deep learning, hadoop, azure"
+118,"data scientist",lead,on-site,company_039,"Charlotte, NC . On-site","â‚¬126,956 - â‚¬198,196","aws, r, python, sql, machine learning, azure, tableau"
+119,"data scientist",lead,remote,company_040,"Fully Remote","â‚¬185,412 - â‚¬228,338",
+120,"machine learning engineer",senior,,company_041,"Basel, Basel, Switzerland","â‚¬80,123","pytorch, python, machine learning, deep learning, tensorflow"
+121,"data scientist",junior,on-site,company_043,"Toronto, Ontario, Canada . On-site","â‚¬72,611","pytorch, spark, git, r, python, sql, machine learning, tensorflow"
+122,"data scientist",senior,on-site,company_044,"Findlay, OH . Denver, CO . San Antonio, TX","â‚¬95,265 - â‚¬164,221","pytorch, scikit-learn, python, machine learning, deep learning, tensorflow"
+123,"data scientist",senior,on-site,company_045,"Toronto, Ontario, Canada","â‚¬85,044","airflow, spark, machine learning, python"
+124,"data scientist",senior,,company_046,"San Francisco, CA","â‚¬146,141 - â‚¬210,074",
+125,"data scientist",senior,,company_047,"Bengaluru, Karnataka, India","â‚¬10,049","deep learning, machine learning"
+126,"data scientist",lead,remote,company_048,"Remote, US . Fully Remote","â‚¬91,335 - â‚¬109,601",
+127,"data scientist",lead,,company_049,"Huntsville, AL . Merritt Island, FL . Seattle, WA","â‚¬125,171 - â‚¬175,240","aws, git, r, python, docker, machine learning, kubernetes, deep learning, azure"
+128,"data scientist",senior,,company_050,"San Francisco, CA","â‚¬150,707","sql, machine learning, r, python"
+129,"data scientist",senior,on-site,company_051,"Laurel, MD","â‚¬210,071",python
+130,"machine learning engineer",senior,,company_052,"Amsterdam, North Holland, Netherlands","â‚¬72,515","sql, machine learning, python"
+131,"data scientist",senior,on-site,company_054,"Richmond, VA . On-site","â‚¬112,288","machine learning, python"
+132,"data scientist",lead,hybrid,company_057,"Seattle, WA . Hybrid","â‚¬132,437","r, python, sql, machine learning, tableau"
+133,"data scientist",lead,hybrid,company_061,"Manchester, England, United Kingdom . Hybrid","â‚¬45,669 - â‚¬63,936","spark, python, airflow, sql, machine learning"
+134,"data scientist",senior,on-site,company_054,"Richmond, VA . On-site","â‚¬112,291","machine learning, python"
+135,"machine learning engineer",senior,,company_064,"Barcelona, Catalonia, Spain","â‚¬28,068","git, r, python, linux, bash"
+136,"data scientist",midlevel,on-site,company_065,"Toronto, Ontario, Canada","â‚¬83,298 - â‚¬124,946","pandas, numpy, scikit-learn, python, sql, azure, tableau"
+137,"data scientist",senior,hybrid,company_066,"Foster City, CA . Hybrid","â‚¬198,201 - â‚¬269,440",
+138,"data scientist",senior,hybrid,company_067,"San Francisco, CA, US . Seattle, WA, US . Hybrid","â‚¬260,211",
+139,"data scientist",senior,,company_069,"United States","â‚¬114,355","pytorch, spark, scikit-learn, python, neural network, machine learning, deep learning, tensorflow"
+140,"data scientist",lead,on-site,company_071,"Cambridge, MA","â‚¬144,311 - â‚¬198,198","r, python, sql, machine learning, tableau"
+141,"data scientist",midlevel,,company_075,"Atlanta, GA","â‚¬105,035","sql, machine learning, tableau, python"
+142,"data scientist",senior,remote,company_077,"United States . Fully Remote","â‚¬155,272 - â‚¬164,406","sql, machine learning, tableau, python"
+143,"data scientist",senior,on-site,company_078,"San Diego, CA","â‚¬140,661","pytorch, python, docker, sql, neural network, kubernetes, tensorflow"
+144,"data scientist",senior,hybrid,company_080,"Toronto, Ontario, Canada . Montreal, Quebec, Canada . Hybrid","â‚¬73,739","machine learning, r, python"
+145,"data scientist",senior,hybrid,company_081,"New York, NY . Hybrid","â‚¬135,178 - â‚¬168,971",
+146,"data scientist",senior,on-site,company_084,On-site,"â‚¬228,515",
+147,"data scientist",senior,,company_089,"New York, NY","â‚¬137,007 - â‚¬159,840","aws, git, python, sql, machine learning"
+148,"machine learning engineer",senior,,company_049,"Seattle, WA","â‚¬162,184 - â‚¬227,055","pandas, pytorch, aws, python, docker, machine learning, kubernetes, deep learning, azure, tensorflow"
+149,"data scientist",senior,hybrid,company_092,"McLean, VA . Hybrid","â‚¬92,833 - â‚¬172,402","java, machine learning, r, python"
+150,"data scientist",senior,on-site,company_093,"Seattle, Washington, United States . On-site","â‚¬210,070 - â‚¬228,336",
+151,"data scientist",lead,,company_094,"Warsaw, Mazowieckie, Poland . Prague, Prague, Czechia . Kyiv, Kyiv City, Ukraine","â‚¬67,594 - â‚¬86,774","pandas, pytorch, r, python, machine learning, tensorflow"
+152,"data scientist",senior,on-site,company_095,On-site,"â‚¬123,307 - â‚¬191,806",
+153,"data scientist",senior,on-site,company_096,"San Francisco, California, United States . On-site","â‚¬219,199 - â‚¬273,999",
+154,"data scientist",senior,,company_098,"Bangalore, Karnataka","â‚¬41,302",
+155,"data scientist",,hybrid,company_099,"Toronto, Ontario, Canada . Hybrid","â‚¬75,128 - â‚¬79,194","sql, tableau, python"
+156,"data scientist",senior,on-site,company_100,"Rock Island, IL . On-site","â‚¬77,667 - â‚¬129,442","scikit-learn, r, python, java, machine learning"
+157,"data scientist",senior,,company_101,"Cambridge, England, United Kingdom","â‚¬31,175",
+158,"data scientist",midlevel,remote,company_103,"Oregon, United States . Fully Remote","â‚¬19,420 - â‚¬98,368","pandas, powerbi, r, python, sql, neural network, machine learning, deep learning, tableau"
+159,"machine learning engineer",midlevel,,company_106,"Pune, Maharashtra, India","â‚¬26,757","spark, aws, powerbi, python, docker, sql, machine learning, gcp, kubernetes, deep learning, azure"
+160,"data scientist",senior,,company_089,"Denver, CO","â‚¬137,005 - â‚¬159,838","aws, git, python, sql, machine learning"
+161,"data scientist",senior,on-site,company_112,"San Francisco, California, United States . On-site","â‚¬148,808",
+162,"data scientist",senior,on-site,company_113,"Charlotte, NC","â‚¬101,935 - â‚¬193,633","sql, deep learning, machine learning"
+163,"data scientist",lead,hybrid,company_115,"Bengaluru, Karnataka, India . Hybrid","â‚¬24,205","pytorch, aws, python, sql, gcp, azure, tensorflow"
+164,"data scientist",senior,,company_116,"Chennai, Tamil Nadu, India","â‚¬13,886","pandas, numpy, pytorch, powerbi, git, scikit-learn, python, java, sql, neural network, gcp, machine learning, matplotlib, tensorflow"
+165,"data scientist",senior,on-site,company_119,"Menlo Park, CA . On-site","â‚¬163,491 - â‚¬191,804",
+166,"data scientist",senior,,company_014,"Berkeley, CA","â‚¬82,193 - â‚¬122,141","machine learning, database"
+167,"data scientist",midlevel,remote,company_121,"Remote, United States . Fully Remote","â‚¬134,541 - â‚¬174,088",
+168,"data scientist",senior,on-site,company_100,"Rock Island, IL . On-site","â‚¬77,671 - â‚¬129,446","scikit-learn, r, python, java, machine learning"
+169,"data scientist",senior,remote,company_067,"San Francisco, CA, US . Remote, US . Fully Remote","â‚¬306,623",
+170,"data scientist",senior,,company_126,"United States","â‚¬28,501",
+171,"data scientist",senior,remote,company_021,"Fully Remote","â‚¬255,732",
+172,"data scientist",senior,remote,company_129,"Fully Remote","â‚¬91,335 - â‚¬228,333",
+173,"data scientist",,,company_022,"Pittsburgh, PA","â‚¬96,819","python, java, sql, kubernetes, azure"
+174,"data scientist",senior,on-site,company_134,"Seattle, WA . Seattle, Washington, Ã‰tats-Unis . Seattle, Washington, USA","â‚¬219,201","amazon, r, python, machine learning, deep learning"
+175,"machine learning engineer",senior,on-site,company_135,"Taipei, Taiwan . On-site","â‚¬36,340",
+176,"data scientist",,hybrid,company_137,"Denver, CO . Hybrid","â‚¬138,833","spark, r, python, database, machine learning"
+177,"data scientist",senior,remote,company_141,"Fort Worth, TX","â‚¬100,470 - â‚¬132,436","machine learning"
+178,"data scientist",senior,hybrid,company_145,"Austin, Texas . Hybrid","â‚¬200,936",
+179,"data scientist",senior,hybrid,company_146,"Toronto, ON . Hybrid","â‚¬153,442 - â‚¬210,981",
+180,"data scientist",senior,,company_148,"Orlando, FL","â‚¬88,185","spark, r, python, sql, hadoop, machine learning"
+181,"data scientist",senior,on-site,company_153,"United States","â‚¬203,676 - â‚¬253,909","pytorch, spark, aws, scikit-learn, python, docker, deep learning, java, sql, machine learning, gcp, kubernetes, hadoop, azure, tensorflow"
+182,"data scientist",senior,remote,company_155,"All, MO","â‚¬146,133 - â‚¬182,666","aws, scikit-learn, python, sql, machine learning, tensorflow"
+183,"machine learning engineer",lead,on-site,company_156,"Mountain View, California (HQ) . On-site","â‚¬138,826 - â‚¬208,239",
+184,"data scientist",,on-site,company_158,"Reston, VA","â‚¬167,600 - â‚¬225,989","aws, git, python, java, kubernetes, machine learning"
+185,"data scientist",senior,remote,company_159,"Fully Remote","â‚¬133,351 - â‚¬155,271",
+186,"data scientist",senior,hybrid,company_164,"Redwood City, US, California . Hybrid","â‚¬149,786 - â‚¬195,453",
+187,"data scientist",senior,on-site,company_166,"Veldhoven, North Brabant, Netherlands . On-site","â‚¬82,371",r
+188,"data scientist",senior,remote,company_169,"Fully Remote","â‚¬224,774",
+189,"data scientist",senior,,company_170,"Ridgefield, CT","â‚¬127,874 - â‚¬202,766","pytorch, git, scikit-learn, python, docker, kubernetes, machine learning, tensorflow"
+190,"data scientist",senior,,company_171,"Pune, Maharashtra, India","â‚¬27,274 - â‚¬52,695","pandas, pytorch, r, python, java, database, keras, machine learning, matplotlib, tensorflow"
+191,"data scientist",senior,on-site,company_173,"San Mateo, CA . On-site","â‚¬109,602 - â‚¬123,302",
+192,"data scientist",,on-site,company_176,On-site,"â‚¬117,189 - â‚¬185,414",
+193,"data scientist",senior,on-site,company_177,"Omaha, NE . Newport Beach, CA . Massachusetts, United States","â‚¬149,445 - â‚¬182,654","scikit-learn, python, sql, machine learning, tensorflow"
+194,"data scientist",senior,on-site,company_178,"Torrance, CA","â‚¬63,942","spark, r, python, hadoop, machine learning"
+195,"data scientist",senior,hybrid,company_179,"Los Angeles, CA . United States . San Francisco, CA . Hybrid","â‚¬182,668 - â‚¬214,634",amazon
+196,"data scientist",senior,remote,company_181,"San Francisco, CA","â‚¬90,877 - â‚¬141,566","tableau, sql, r, python"
+197,"data scientist",midlevel,hybrid,company_182,"Navi Mumbai, Maharashtra, India . Hybrid","â‚¬15,542","pandas, numpy, pytorch, scikit-learn, python, docker, scipy, sql, machine learning, deep learning, matplotlib, tensorflow"
+198,"data scientist",senior,hybrid,company_183,"Tallinn, Harjumaa, Estonia . Hybrid","â‚¬61,772","pandas, numpy, spark, aws, scikit-learn, python, docker, airflow, sql, machine learning, deep learning"
+199,"data scientist",senior,on-site,company_184,"New York, NY","â‚¬137,004","machine learning"
+200,"data scientist",senior,,company_185,"Fairfax, VA","â‚¬171,892 - â‚¬257,744","pytorch, git, python, machine learning, keras, deep learning, tensorflow"
+201,"data scientist",senior,hybrid,company_186,"New York, NY . Hybrid","â‚¬45,674 - â‚¬105,040","database, sql, aws, python"
+202,"data scientist",senior,,company_192,"United States","â‚¬137,007 - â‚¬164,407","amazon, spark, python, airflow, machine learning"
+203,"data scientist",midlevel,on-site,company_193,"Phoenix, AZ","â‚¬82,201","powerbi, aws, r, python, sql, machine learning"
+204,"data scientist",senior,hybrid,company_196,Hybrid,"â‚¬158,920 - â‚¬237,831",
+205,"data scientist",,on-site,company_197,"Bengaluru, Karnataka, India . On-site","â‚¬27,409",
+206,"data scientist",,hybrid,company_199,"Austin, TX . Hybrid","â‚¬109,605","java, sql, python"
+207,"data scientist",lead,hybrid,company_203,"Cincinnati, OH . Chicago, IL . Hybrid","â‚¬199,795",
+208,"data scientist",lead,on-site,company_207,"Manassas, VA","â‚¬94,077 - â‚¬118,737","aws, python, linux, sql, gcp, hadoop"
+209,"data scientist",senior,,company_209,"Bengaluru, Karnataka, India","â‚¬639,348","spark, aws, python, sql, gcp, deep learning, tensorflow, tableau"
+210,"data analyst",senior,,company_211,"Eindhoven, North Brabant, Netherlands","â‚¬69,047",python
+211,"data scientist",midlevel,,company_212,"Cincinnati, OH","â‚¬135,179","azure, aws, machine learning, python"
+212,"machine learning engineer",senior,on-site,company_215,"San Francisco, CA . Seattle, WA . New York, NY . On-site","â‚¬200,939 - â‚¬296,838",
+213,"data scientist",,hybrid,company_221,"Bengaluru, Karnataka, India . Hybrid","â‚¬19,096","spark, r, python, java, sql, machine learning"
+214,"data scientist",lead,,company_223,"Raleigh-Durham-Chapel Hill Area","â‚¬99,560","spark, aws, r, python, machine learning, hadoop, deep learning"
+215,"data scientist",senior,hybrid,company_092,"McLean, VA . Hybrid","â‚¬92,838 - â‚¬172,407","java, machine learning, r, python"
+216,"data scientist",senior,remote,company_225,"Fully Remote","â‚¬137,001",
+217,"data scientist",,on-site,company_226,"Rochester, New York Metropolitan Area","â‚¬55,196 - â‚¬77,273","deep learning, machine learning"
+218,"data scientist",senior,on-site,company_227,"Denver, CO","â‚¬68,685 - â‚¬100,834","pytorch, aws, r, python, docker, scikit-learn, sql, machine learning, gcp, deep learning, azure, tensorflow"
+219,"data scientist",senior,hybrid,company_052,"Greater SÃ£o Paulo Area . Hybrid","â‚¬50,222","sql, r, python"
+220,"data scientist",senior,on-site,company_230,"Mettawa, IL","â‚¬137,003",
+221,"data scientist",midlevel,on-site,company_231,"South San Francisco, CA . On-site","â‚¬124,219","machine learning, r, python"
+222,"data scientist",senior,remote,company_233,"United States","â‚¬95,586 - â‚¬172,785","machine learning, r, python"
+223,"data scientist",senior,on-site,company_235,"San Antonio, TX","â‚¬137,008","spark, r, python, sql, machine learning, hadoop, deep learning"
+224,"data scientist",lead,remote,company_236,"United States . Fully Remote","â‚¬137,002 - â‚¬155,268","sql, machine learning, tableau, python"
+225,"data scientist",senior,,company_041,"Mississauga, Ontario, Canada","â‚¬74,130","gcp, git, r"
+226,"data scientist",senior,hybrid,company_241,"Manchester, England, United Kingdom . Hybrid","â‚¬95,906 - â‚¬105,039","pytorch, aws, scikit-learn, scipy, machine learning, gcp, azure, tensorflow"
+227,"data scientist",senior,on-site,company_243,"Bowie, MD . On-site","â‚¬101,149 - â‚¬110,282",
+228,"data scientist",,on-site,company_244,"Plano, TX . On-site","â‚¬86,772 - â‚¬196,371","pytorch, machine learning, tensorflow, python"
+229,"data scientist",senior,,company_246,"Arlington, VA","â‚¬173,540","spark, python, docker, java, sql, machine learning, kubernetes, hadoop, deep learning"
+230,"data scientist",midlevel,,company_250,"New York, NY","â‚¬171,458 - â‚¬238,990","powerbi, r, python, scikit-learn, sql, machine learning, tensorflow, tableau"
+231,"data scientist",lead,hybrid,company_252,"San Francisco, CA . Hybrid","â‚¬258,704",
+232,"data scientist",lead,,company_254,"Chicago, IL","â‚¬63,935 - â‚¬86,768","powerbi, r, python, sql, database, hadoop, tableau"
+233,"data scientist",senior,on-site,company_255,"Charlotte, NC . On-site","â‚¬123,305 - â‚¬137,005",
+234,"data scientist",,on-site,company_256,"San Francisco, CA . On-site","â‚¬155,274","sql, machine learning, r, python"
+235,"data scientist",senior,hybrid,company_257,"Foster City, CA . Hybrid","â‚¬120,561 - â‚¬192,988","pytorch, spark, r, python, scikit-learn, machine learning, deep learning, tensorflow"
+236,"machine learning engineer",senior,hybrid,company_007,"Vancouver, British Columbia, Canada . Hybrid","â‚¬59,371 - â‚¬63,938","pytorch, machine learning, tensorflow, python"
+237,"data scientist",senior,on-site,company_261,"Alameda, CA","â‚¬79,187","spark, r, python, scala, linux, java, hadoop, machine learning"
+238,"data scientist",senior,,company_183,"Berlin, Berlin, Germany","â‚¬98,643","pandas, numpy, spark, aws, scikit-learn, python, airflow, machine learning"
+239,"data scientist",senior,,company_268,"Singapore, Singapore","â‚¬67,044","pytorch, git, python, machine learning, tensorflow"
+240,"data scientist",senior,,company_269,"Boston, MA . Newark, DE . Tampa, FL . Kennesaw, GA . Plano, TX + 8 More","â‚¬150,707 - â‚¬224,869","python, java, sql, hadoop, machine learning"
+241,"data scientist",senior,,company_270,"New York, NY","â‚¬131,706 - â‚¬263,408","sql, python"
+242,"data scientist",lead,on-site,company_231,"San Diego, CA . On-site","â‚¬115,539 - â‚¬181,846","aws, git, r, python, java, machine learning, database, azure, matplotlib"
+243,"data scientist",midlevel,on-site,company_273,"Redmond, WA","â‚¬121,475 - â‚¬255,734","sql, machine learning, r, python"
+244,"data scientist",senior,hybrid,company_276,Hybrid,"â‚¬294,100",
+245,"data scientist",lead,on-site,company_279,"San Francisco, California . On-site","â‚¬127,874 - â‚¬155,273",
+246,"machine learning engineer",,,company_106,"Pune, Maharashtra, India","â‚¬26,760","spark, aws, powerbi, python, docker, sql, machine learning, gcp, kubernetes, deep learning, azure"
+247,"data scientist",senior,remote,company_280,"Annapolis Junction, MD . Annapolis, MD . Fully Remote","â‚¬109,600 - â‚¬182,666","linux, machine learning, python"
+248,"data scientist",midlevel,remote,company_282,"Rosemont, IL","â‚¬68,501 - â‚¬109,601","git, r, python, bash, sql, machine learning, deep learning"
+249,"data scientist",senior,hybrid,company_115,"New York, NY . Hybrid","â‚¬137,002","pandas, numpy, scikit-learn, python, sql, hadoop"
+250,"data scientist",lead,,company_207,"Hyderabad, Telangana, India","â‚¬24,621","pytorch, r, python, sql, machine learning, deep learning, tensorflow, tableau"
+251,"data scientist",senior,,company_047,"Bengaluru, Karnataka, India","â‚¬10,055","deep learning, machine learning"
+252,"data scientist",junior,on-site,company_288,"Chantilly, VA . On-site","â‚¬114,171","aws, azure"
+253,"data scientist",senior,,company_290,"Pune, Maharashtra, India","â‚¬29,949 - â‚¬41,758","powerbi, aws, python, sql, machine learning, tableau"
+254,"data scientist",senior,,company_291,"Bengaluru, Karnataka, India","â‚¬9,583","aws, r, python, sql, neural network, gcp, azure"
+255,"data scientist",senior,on-site,company_141,"Orlando, FL","â‚¬68,500","machine learning"
+256,"data scientist",senior,remote,company_293,"Bengaluru, Karnataka, India","â‚¬36,104","spark, python, sql, machine learning, deep learning, tensorflow"
+257,"data scientist",senior,hybrid,company_295,"Montreal, Quebec, Canada . Hybrid","â‚¬55,906","pandas, numpy, pytorch, aws, scikit-learn, python, sql, machine learning"
+258,"data scientist",senior,hybrid,company_296,"Lebanon, NH . Hybrid","â‚¬81,293 - â‚¬108,937","machine learning, python"
+259,"data scientist",midlevel,on-site,company_166,"Veldhoven, North Brabant, Netherlands . On-site","â‚¬82,373",python
+260,"data scientist",midlevel,remote,company_298,"United States","â‚¬88,140 - â‚¬136,089","sql, azure, r, python"
+261,"data scientist",senior,,company_303,"New York, NY","â‚¬114,175 - â‚¬118,741","aws, git, python, sql, gcp, machine learning"
+262,"data scientist",senior,on-site,company_034,"Annapolis Junction, MD","â‚¬178,100 - â‚¬210,980","sql, machine learning, r, python"
+263,"data scientist",senior,,company_305,"Budapest, Budapest, Hungary","â‚¬27,403","machine learning, python"
+264,"data scientist",senior,remote,company_306,"Fort Meade, MD . Fort Meade, Maryland, BirleÅŸik Devletler . Fully Remote","â‚¬127,871 - â‚¬178,103","sql, machine learning, r, python"
+265,"data scientist",midlevel,on-site,company_308,"Mountain View, CA","â‚¬171,712 - â‚¬277,840","sql, python"
+266,"data scientist",senior,,company_309,"Bengaluru, Karnataka, India","â‚¬19,234","pytorch, aws, git, python, docker, gcp, azure, tensorflow"
+267,"data scientist",senior,on-site,company_310,"Antwerp Metropolitan Area","â‚¬90,697","powerbi, tableau"
+268,"machine learning engineer",lead,on-site,company_312,"San Francisco, CA . Seattle, WA . New York, NY . On-site","â‚¬200,939 - â‚¬296,838",
+269,"data scientist",,on-site,company_315,"United States","â‚¬99,744 - â‚¬204,046","pytorch, aws, r, python, docker, machine learning, kubernetes, deep learning, tensorflow"
+270,"data scientist",senior,on-site,company_316,"Dublin, County Dublin, Ireland","â‚¬52,987","sql, azure, python"
+271,"data scientist",senior,,company_251,"Alpharetta, GA","â‚¬115,086","spark, aws, r, python, scala, java, sql, machine learning, hadoop, azure, tensorflow, tableau"
+272,"data scientist",lead,remote,company_318,"United States","â‚¬100,467","machine learning"
+273,"machine learning engineer",senior,hybrid,company_008,"San Jose, CA . Hybrid","â‚¬125,584 - â‚¬216,003","pandas, numpy, pytorch, spark, aws, scikit-learn, python, java, sql, machine learning, tensorflow"
+274,"data scientist",senior,on-site,company_324,"United States . On-site","â‚¬137,003 - â‚¬150,703","sql, machine learning, r, python"
+275,"machine learning engineer",senior,,company_326,,"â‚¬44,207",
+276,"data scientist",senior,remote,company_328,"Riverwoods, IL","â‚¬118,733 - â‚¬166,226","sql, tableau"
+277,"data scientist",senior,on-site,company_336,"South San Francisco, CA","â‚¬195,911","machine learning"
+278,"data scientist",lead,remote,company_337,"Tallahassee, FL . Arlington, VA . Fully Remote","â‚¬131,219 - â‚¬223,067","r, python, sql, machine learning, database, deep learning"
+279,"data scientist",midlevel,remote,company_339,"Fully Remote","â‚¬164,405 - â‚¬226,054",
+280,"data scientist",senior,hybrid,company_340,"San Jose, CA . Hybrid","â‚¬112,800 - â‚¬194,405","sql, machine learning, r, python"
+281,"data scientist",senior,on-site,company_341,On-site,"â‚¬127,868 - â‚¬143,851",
+282,"data scientist",,,company_343,"Edinburgh, Scotland, United Kingdom","â‚¬59,677","machine learning, python"
+283,"data scientist",senior,on-site,company_201,"Milwaukee, WI","â‚¬102,300 - â‚¬140,660","spark, python, scala, machine learning, database, azure, tableau"
+284,"data scientist",senior,on-site,company_352,"Pune, Maharashtra, India . On-site","â‚¬13,173","amazon, r, python, java, database, hadoop, machine learning"
+285,"data scientist",midlevel,remote,company_353,"Fully Remote","â‚¬164,400",
+286,"data scientist",senior,on-site,company_355,"Seattle, WA","â‚¬125,223 - â‚¬216,007","sql, r, python"
+287,"data scientist",senior,on-site,company_184,"Johns Creek, GA","â‚¬137,000","machine learning"
+288,"data scientist",senior,hybrid,company_357,"Basking Ridge, NJ . Irving, TX . Temple Terrace, FL . Boston, MA . Ashburn, VA + 1 More . Hybrid","â‚¬92,254","python, sql, machine learning, database, hadoop, deep learning"
+289,"data scientist",senior,,company_360,"Itanagar, Arunachal Pradesh, India","â‚¬12,924","pandas, numpy, pytorch, spark, aws, git, scikit-learn, python, docker, scipy, hadoop, machine learning, database, keras, deep learning, matplotlib, tensorflow"
+290,"data scientist",senior,remote,company_362,"Fully Remote","â‚¬198,198 - â‚¬277,565",
+291,"data scientist",senior,on-site,company_031,"New Brunswick, NJ","â‚¬97,046 - â‚¬131,295","aws, powerbi, r, python, airflow, machine learning, azure, tableau"
+292,"data scientist",senior,on-site,company_363,"Bellevue, WA","â‚¬109,328 - â‚¬203,035","pytorch, scikit-learn, python, scala, java, machine learning, tensorflow"
+293,"data scientist",senior,on-site,company_235,"Phoenix, AZ","â‚¬137,000","spark, r, python, sql, machine learning, hadoop, deep learning"
+294,"data scientist",lead,,company_365,"McLean, VA","â‚¬72,666 - â‚¬159,901","database, machine learning, python"
+295,"data scientist",senior,,company_366,"Columbia, MD","â‚¬100,472 - â‚¬146,138","pytorch, spark, aws, r, python, scikit-learn, scala, sql, machine learning, gcp, azure, tensorflow"
+296,"data scientist",lead,on-site,company_367,On-site,"â‚¬144,307 - â‚¬167,140",
+297,"data scientist",senior,,company_185,"Utah, United States","â‚¬125,495 - â‚¬188,149","aws, gcp, azure"
+298,"machine learning engineer",senior,,company_371,"South San Francisco, CA . South San Francisco, Kalifornia, Stany Zjednoczone","â‚¬190,891 - â‚¬212,811","pytorch, python, machine learning, deep learning, tensorflow"
+299,"data scientist",senior,hybrid,company_146,"Kitchener-Waterloo, ON . Toronto, ON . Hybrid","â‚¬153,447 - â‚¬210,986",
+300,"machine learning engineer",senior,on-site,company_178,"Torrance, CA","â‚¬63,941","java, machine learning, r, python"
+301,"data scientist",senior,remote,company_112,"Fully Remote","â‚¬213,594",
+302,"machine learning engineer",,,company_326,,"â‚¬44,202",
+303,"data scientist",lead,hybrid,company_382,"Greater Chicago Area . Hybrid","â‚¬73,068 - â‚¬91,335","aws, python, sql, machine learning, deep learning"
+304,"data scientist",senior,on-site,company_383,"Barcelona, Spain . On-site","â‚¬46,528 - â‚¬76,222",
+305,"data scientist",,on-site,company_071,"Cambridge, MA","â‚¬9,140","r, python, sql, hadoop, machine learning"
+306,"data scientist",senior,on-site,company_384,"Normal, IL . Plymouth, MI . Palo Alto, CA . Irvine, CA . Atlanta, GA","â‚¬147,050 - â‚¬196,370","sql, r, python"
+307,"machine learning engineer",senior,hybrid,company_387,"Sunnyvale, CA . Hybrid","â‚¬144,491",
+308,"data scientist",,remote,company_176,"Fully Remote","â‚¬146,050 - â‚¬230,989",
+309,"data scientist",senior,on-site,company_389,"Menlo Park, CA","â‚¬181,756 - â‚¬258,932",python
+310,"data scientist",senior,remote,company_391,"Fully Remote","â‚¬132,438 - â‚¬159,838",
+311,"data scientist",senior,on-site,company_392,"Cincinnati, OH","â‚¬157,017 - â‚¬263,794","spark, aws, python, sql, machine learning, gcp, azure"
+312,"data scientist",senior,on-site,company_395,"McLean, VA","â‚¬121,479 - â‚¬138,650","spark, aws, r, python, scala, sql, database, machine learning"
+313,"data scientist",midlevel,on-site,company_316,"Dublin, County Dublin, Ireland","â‚¬57,318","machine learning, r, python"
+314,"data scientist",senior,on-site,company_367,On-site,"â‚¬216,463 - â‚¬242,949",
+315,"data scientist",senior,hybrid,company_403,"Boston, MA . Hybrid","â‚¬130,609 - â‚¬140,656",
+316,"data scientist",,,company_404,"United States","â‚¬87,412 - â‚¬139,463","aws, r, python, linux, sql, machine learning, deep learning, azure"
+317,"data scientist",senior,remote,company_337,"Arlington, VA","â‚¬89,623 - â‚¬152,356","r, python, sql, machine learning, database, deep learning"
+318,"machine learning engineer",senior,on-site,company_336,"New York, NY","â‚¬128,871 - â‚¬239,383","deep learning, machine learning, r, python"
+319,"data scientist",midlevel,on-site,company_410,On-site,"â‚¬28,130",
+320,"data scientist",senior,on-site,company_411,"San Francisco, CA","â‚¬130,667 - â‚¬241,897","spark, aws, python, airflow, sql, gcp, machine learning"
+321,"data scientist",midlevel,on-site,company_412,"Atlanta, GA","â‚¬67,682 - â‚¬101,475","pandas, aws, scikit-learn, python, sql, machine learning, gcp, azure, matplotlib"
+322,"data scientist",senior,hybrid,company_414,"London, England, United Kingdom . Hybrid","â‚¬91,337 - â‚¬137,003","sql, aws, r, python"
+323,"data scientist",senior,hybrid,company_417,"Bengaluru, Karnataka, India . Hybrid","â‚¬32,665","pandas, numpy, pytorch, aws, r, python, scikit-learn, scipy, sql, machine learning, deep learning, keras, azure, matplotlib, tensorflow, tableau"
+324,"data scientist",senior,remote,company_418,"Washington, United States . Idaho, United States . Arizona, United States . Georgia, United States . South Carolina, United States + 1 More . Fully Remote","â‚¬88,967 - â‚¬166,051","tableau, sql, r, python"
+325,"data scientist",senior,remote,company_421,"Mexico City Metropolitan Area . Fully Remote","â‚¬25,212","sql, machine learning, python"
+326,"data scientist",midlevel,,company_422,"Englewood, CO","â‚¬105,439","sql, r, python"
+327,"data scientist",senior,hybrid,company_423,"New York, NY . Hybrid","â‚¬118,741 - â‚¬137,008",
+328,"data scientist",senior,remote,company_425,"Madrid, Community of Madrid, Spain","â‚¬55,995","spark, aws, powerbi, r, python, docker, linux, sql, azure, tableau"
+329,"data scientist",senior,hybrid,company_426,"Palo Alto, CA . Hybrid","â‚¬186,327 - â‚¬261,220",
+330,"data scientist",lead,hybrid,company_428,"Seattle, WA . Hybrid","â‚¬210,073 - â‚¬251,172","sql, python"
+331,"data scientist",senior,hybrid,company_433,Hybrid,"â‚¬36,542 - â‚¬54,809",
+332,"data scientist",,on-site,company_435,"Toronto, Ontario, Canada","â‚¬94,256 - â‚¬175,359","machine learning, python"
+333,"data scientist",senior,,company_069,"United States","â‚¬87,407","spark, aws, python, sql, machine learning, gcp, azure"
+334,"data scientist",senior,on-site,company_438,"New York City, New York, United States . On-site","â‚¬154,356",
+335,"data scientist",,,company_440,"Lexington, MA . Massachusetts, United States","â‚¬109,604","aws, scikit-learn, python, sql, machine learning, deep learning, tensorflow"
+336,"data scientist",senior,,company_449,"New York, United States","â‚¬141,571 - â‚¬164,405","tableau, sql, r, python"
+337,"data scientist",lead,on-site,company_450,"Fort George G Meade, Maryland, United States . On-site","â‚¬89,511 - â‚¬196,370",
+338,"data scientist",senior,remote,company_421,"SÃ£o Paulo, SÃ£o Paulo, Brazil . Fully Remote","â‚¬25,214","sql, machine learning, python"
+339,"data scientist",midlevel,on-site,company_456,"Sacramento, CA","â‚¬115,891 - â‚¬172,882",
+340,"data scientist",midlevel,,company_457,"New York, United States . Minneapolis, MN . Chicago, IL","â‚¬68,504 - â‚¬84,944","git, r, python, docker, sql, machine learning"
+341,"data scientist",senior,on-site,company_460,"Bellevue, WA","â‚¬122,847 - â‚¬196,370","aws, git, python, sql, machine learning"
+342,"data scientist",midlevel,on-site,company_211,"Bengaluru, Karnataka, India . Bengaluru East, Karnataka, India","â‚¬27,524","pytorch, python, docker, machine learning, kubernetes, deep learning, tensorflow"
+343,"data scientist",senior,on-site,company_438,"New York City, New York, United States . On-site","â‚¬151,203",
+344,"data scientist",senior,hybrid,company_461,"Bengaluru, Karnataka, India . Hybrid","â‚¬14,064","aws, machine learning, gcp, azure, deep learning"
+345,"machine learning engineer",lead,on-site,company_465,"Washington, DC . On-site","â‚¬120,104 - â‚¬200,112","deep learning, aws, machine learning, python"
+346,"machine learning engineer",senior,on-site,company_025,"Jersey City, NJ","â‚¬146,134 - â‚¬164,401","aws, gcp, azure"
+347,"data scientist",midlevel,,company_468,"Los Alamos, NM","â‚¬114,354 - â‚¬192,992","git, r, python, sql, machine learning, database, deep learning"
+348,tester,senior,,company_470,"Austin, TX","â‚¬68,505","linux, python"
+349,"data scientist",midlevel,on-site,company_474,"Irvine, CA","â‚¬92,252 - â‚¬170,573","amazon, pytorch, aws, python, java, machine learning, deep learning, keras, azure, tensorflow"
+350,"data scientist",senior,remote,company_475,"Brisbane, CA","â‚¬164,408 - â‚¬211,900","pandas, numpy, git, r, python, scikit-learn, machine learning, matplotlib"
+351,"data scientist",senior,on-site,company_477,"Mountain View, California, United States . On-site","â‚¬187,241",

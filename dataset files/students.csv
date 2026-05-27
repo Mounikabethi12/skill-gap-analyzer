@@ -1,0 +1,21 @@
+student_id,name,degree,skills,target_job
+101,Rahul,BTech CSE,"spark, r, python, scala, machine learning, tensorflow",Data scientist 
+102,priya,BTech CSE,"spark, r, python, sql, machine learning",Data Analyst
+103,bhanu,BTech CSE,"aws, git, python, docker, sql, machine learning, gcp, kubernetes, deep learning",Data Scientist
+104,siri,BTech CSE,"sql, r, python",ML Engineer
+105,vennala,EEE,,Data Analyst
+106,rishika,Degree,"scikit-learn, python, scala, sql, machine learning, tensorflow",Data Scientist
+107,sudha,AIML,,Data Analyst
+108,sachin,B.tech IT,machine learning,ML Engineer
+109,boby,BBA,,Data Analyst
+110,jeo,B.A,,AI Engineer
+111,mark,B.com,"pytorch, r, python, sql, machine learning, keras, deep learning, tensorflow",Data Analyst
+112,virat,B.tech,"java, git, python",ML Engineer
+113,samrat,B.tech AIML,"sql, machine learning, python",Data Analyst
+114,kiran,B.tech IT,"sql, machine learning, r, python",Data Scientist
+115,vaibhav,ECE,"pandas, powerbi, python, java, sql, machine learning, tableau",Data Analyst
+116,sneha,B.tech IT,,ML Engineer
+117,malini,ECE,"spark, aws, r, python, machine learning, gcp, deep learning, hadoop, azure",Data Analyst
+118,ayushman,B.tech IT,"aws, r, python, sql, machine learning, azure, tableau",AI Engineer
+119,shailu,ECE,,Data Scientist
+120,mounika,B.tech IT,"spark, r, python, scala, machine learning, tensorflow",Data Analyst
